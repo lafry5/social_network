@@ -13,6 +13,7 @@ const {
 router
   .route('/')
   .get(getAllUsers)
+  // .get(function(){console.log("in user-route")})
   .post(createUser);
 
 // /api/users/:id
