@@ -20,7 +20,9 @@
   "homepage": "https://github.com/lafry5/social_network#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongo": "^0.1.0",
     "mongod": "^2.0.0",
-    "mongoose": "^5.10.7"
+    "mongoose": "^5.10.9"
   }
 }
