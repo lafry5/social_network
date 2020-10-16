@@ -7,7 +7,7 @@ const {
   deleteThought,
   addReaction,
   deleteReaction,
-} = require('../../controllers/comment-controller');
+} = require('../../controllers/thought-controller');
 //changed comment to thoughts
 
 // api/thoughts
