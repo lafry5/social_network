@@ -22,7 +22,7 @@ Repository Link: https://github.com/lafry5/social_network
 
 Links to Videos:
 - Part 1: https://youtu.be/o2wXPtUSlz0
-- Part 2: 
+- Part 2: https://youtu.be/2mRlvoKUAcE
 
 
 
